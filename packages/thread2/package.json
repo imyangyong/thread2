@@ -1,9 +1,11 @@
 {
   "name": "thread2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "thread2 for thread2 seed system",
   "main": "index.js",
-  "keywords": ["seed"],
+  "keywords": [
+    "seed"
+  ],
   "bin": {
     "thread2": "bin/thread2.js"
   },
