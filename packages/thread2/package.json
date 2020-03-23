@@ -1,0 +1,28 @@
+{
+  "name": "thread2",
+  "version": "0.0.2",
+  "description": "thread2 for thread2 seed system",
+  "main": "index.js",
+  "keywords": ["seed"],
+  "bin": {
+    "thread2": "bin/thread2.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AngusYang9/thread2-seed.git"
+  },
+  "author": "angusyang9",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.2.1",
+    "commander": "2.19.0",
+    "copy-dir": "0.3.0",
+    "delete": "0.3.2",
+    "lodash": "4.16.6",
+    "md5": "2.2.1",
+    "shell-promise": "1.0.0"
+  }
+}
