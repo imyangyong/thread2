@@ -21,7 +21,7 @@
     "commander": "2.19.0",
     "copy-dir": "0.3.0",
     "delete": "0.3.2",
-    "lodash": "4.16.6",
+    "lodash": "4.17.15",
     "md5": "2.2.1",
     "shell-promise": "1.0.0"
   }
